@@ -28,7 +28,9 @@ This project builds a Lookalike Model to recommend the top 3 similar customers f
 
 Files:
 Lookalike_Model.ipynb: Notebook with the implementation.
+
 Lookalike_Model.csv: CSV file containing the recommendations.
+
 Steps to Run:
 Clone the repository.
 Install required libraries: pandas, scikit-learn.
