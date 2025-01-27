@@ -1,5 +1,5 @@
 # Data-Science
-Overview
+
 This project contains Exploratory Data Analysis (EDA) for an eCommerce transactions dataset. The dataset includes information about:
 
 Customers (CustomerID, Region, etc.)
