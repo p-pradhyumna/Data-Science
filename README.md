@@ -9,6 +9,7 @@ Products (ProductID, Category, Price)
 Transactions (TransactionID, Quantity, TotalValue, etc.)
 
 Files:
+
 EDA.ipynb: Jupyter Notebook with EDA code.
 
 EDA.pdf: PDF report summarizing key insights.
@@ -27,6 +28,7 @@ Lookalike Model: Customer Recommendations
 This project builds a Lookalike Model to recommend the top 3 similar customers for each customer in the dataset.
 
 Files:
+
 Lookalike_Model.ipynb: Notebook with the implementation.
 
 Lookalike_Model.csv: CSV file containing the recommendations.
@@ -40,9 +42,10 @@ Overview
 This task involves segmenting customers into distinct clusters based on their profiles and transaction data. The segmentation helps in identifying customer groups for targeted marketing strategies.
 
 Files:
-File Name	Description
-Customer_Segmentation.ipynb	Jupyter Notebook implementing clustering techniques.
 
-Customer_Segmentation.csv	CSV file listing customer IDs and their assigned clusters.
 
-Customer_Segmentation.pdf	PDF report summarizing clustering results and insights.
+Customer_Segmentation.ipynb:	Jupyter Notebook implementing clustering techniques.
+
+Customer_Segmentation.csv:	CSV file listing customer IDs and their assigned clusters.
+
+Customer_Segmentation.pdf:	PDF report summarizing clustering results and insights.
